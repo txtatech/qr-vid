@@ -1,0 +1,5 @@
+If you want to slow down the video playback, you can increase the delay. For example, setting the delay to 100 milliseconds will slow down the video by a factor of 100: `if cv2.waitKey(100) & 0xFF == ord('q'):`. This will display each frame for approximately 100 milliseconds before moving on to the next frame.
+
+Similarly, if you want to speed up the video playback, you can decrease the delay. For example, setting the delay to 10 microseconds will speed up the video by a factor of 0.01: `if cv2.waitKey(10) & 0xFF == ord('q'):`. Note that setting a very small delay may cause the video to appear choppy.
+
+You can experiment with different delay values to find the playback speed that suits your needs. Keep in mind that if the delay is too small, it may become difficult to interact with the video using the 'q' key to exit the loop, as the program will not have enough time to process the key press.
