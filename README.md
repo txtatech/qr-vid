@@ -32,14 +32,20 @@ The script reads the video file frame by frame, converts each frame to grayscale
 To run the script, open a terminal or command prompt and navigate to the directory containing the Python script and the video file. Then, execute the following command:
 
 ```bash
-python script_name.py
+python qr-vid-decode-v1.py
+```
+or
+
+```bash
+python qr-vid-decode-v2.py
 ```
 
-Replace `script_name.py` with the actual name of the Python script file you are using.
+python qr-vid-decode-v1.py Prints to terminal only.
+python qr-vid-decode-v2.py Prints to terminal and outputs to a text file.
 
 ### Output
 
-As the script runs, it will display the frames of the video in a window named "Video" and print the decoded data for each QR code found in the frames. The decoded data will also be written to the `qr-test-decoded.txt` text file in the same directory as the script.
+As the script runs, it will display the frames of the video in a window named "Video" and print the decoded data for each QR code found in the frames. The decoded data will also be written to the `qr-test-decoded.txt` text file in the same directory as the script. The script also prints the decoded data to the terminal.
 
 ### Exiting the Script
 
