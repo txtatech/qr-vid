@@ -1,0 +1,74 @@
+1
+00:00:00,000 --> 00:00:05,000
+def math_func_1(n):
+    return n - 1
+
+2
+00:00:05,000 --> 00:00:10,000
+print(math_func_1(1))
+#END OF PROGRAM#
+def math_func_10(n):
+    return math.tan(n)
+
+3
+00:00:10,000 --> 00:00:15,000
+print(math_func_10(n))
+#END OF PROGRAM#
+def math_func_2(n):
+    return n * 2
+
+4
+00:00:15,000 --> 00:00:20,000
+print(math_func_2(2))
+#END OF PROGRAM#
+def math_func_3(n):
+    return n / 3
+
+5
+00:00:20,000 --> 00:00:25,000
+print(math_func_3(3))
+#END OF PROGRAM#
+def math_func_4(n):
+    return n % 4
+
+6
+00:00:25,000 --> 00:00:30,000
+print(math_func_4(4))
+#END OF PROGRAM#
+def math_func_5(n):
+    return math.pow(n, 5)
+
+7
+00:00:30,000 --> 00:00:35,000
+print(math_func_5(5))
+#END OF PROGRAM#
+def math_func_6(n):
+    return math.sqrt(n)
+
+8
+00:00:35,000 --> 00:00:40,000
+print(math_func_6(n))
+#END OF PROGRAM#
+def math_func_7(n):
+    return math.log(n)
+
+9
+00:00:40,000 --> 00:00:45,000
+print(math_func_7(n))
+#END OF PROGRAM#
+def math_func_8(n):
+    return math.sin(n)
+
+10
+00:00:45,000 --> 00:00:50,000
+print(math_func_8(n))
+#END OF PROGRAM#
+def math_func_9(n):
+    return math.cos(n)
+
+11
+00:00:50,000 --> 00:00:55,000
+print(math_func_9(n))
+#END OF PROGRAM#
+
+

@@ -1,0 +1,13 @@
+{
+    "entry_1": "def math_func_1(n):\n    return n - 1\n\nprint(math_func_1(1))",
+    "entry_2": "def math_func_10(n):\n    return math.tan(n)\n\nprint(math_func_10(n))",
+    "entry_3": "def math_func_2(n):\n    return n * 2\n\nprint(math_func_2(2))",
+    "entry_4": "def math_func_3(n):\n    return n / 3\n\nprint(math_func_3(3))",
+    "entry_5": "def math_func_4(n):\n    return n % 4\n\nprint(math_func_4(4))",
+    "entry_6": "def math_func_5(n):\n    return math.pow(n, 5)\n\nprint(math_func_5(5))",
+    "entry_7": "def math_func_6(n):\n    return math.sqrt(n)\n\nprint(math_func_6(n))",
+    "entry_8": "def math_func_7(n):\n    return math.log(n)\n\nprint(math_func_7(n))",
+    "entry_9": "def math_func_8(n):\n    return math.sin(n)\n\nprint(math_func_8(n))",
+    "entry_10": "def math_func_9(n):\n    return math.cos(n)\n\nprint(math_func_9(n))",
+    "entry_11": ""
+}

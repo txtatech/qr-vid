@@ -1,0 +1,5 @@
+make video in openshot from qr code images
+
+then
+
+add srt file to video with handbrake

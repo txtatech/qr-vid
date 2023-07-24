@@ -1,0 +1,50 @@
+def math_func_1(n):
+    return n - 1
+
+print(math_func_1(1))
+#END OF PROGRAM#
+def math_func_10(n):
+    return math.tan(n)
+
+print(math_func_10(n))
+#END OF PROGRAM#
+def math_func_2(n):
+    return n * 2
+
+print(math_func_2(2))
+#END OF PROGRAM#
+def math_func_3(n):
+    return n / 3
+
+print(math_func_3(3))
+#END OF PROGRAM#
+def math_func_4(n):
+    return n % 4
+
+print(math_func_4(4))
+#END OF PROGRAM#
+def math_func_5(n):
+    return math.pow(n, 5)
+
+print(math_func_5(5))
+#END OF PROGRAM#
+def math_func_6(n):
+    return math.sqrt(n)
+
+print(math_func_6(n))
+#END OF PROGRAM#
+def math_func_7(n):
+    return math.log(n)
+
+print(math_func_7(n))
+#END OF PROGRAM#
+def math_func_8(n):
+    return math.sin(n)
+
+print(math_func_8(n))
+#END OF PROGRAM#
+def math_func_9(n):
+    return math.cos(n)
+
+print(math_func_9(n))
+#END OF PROGRAM#
