@@ -1,0 +1,1500 @@
+def math_func_1(n):
+    return n - 1
+
+print(math_func_1(1))
+
+def math_func_10(n):
+    return math.tan(n)
+
+print(math_func_10(n))
+
+def math_func_100(n):
+    return n - 1
+
+print(math_func_100(1))
+
+def math_func_101(n):
+    return n * 2
+
+print(math_func_101(2))
+
+def math_func_102(n):
+    return n / 3
+
+print(math_func_102(3))
+
+def math_func_103(n):
+    return n % 4
+
+print(math_func_103(4))
+
+def math_func_104(n):
+    return math.pow(n, 5)
+
+print(math_func_104(5))
+
+def math_func_105(n):
+    return math.sqrt(n)
+
+print(math_func_105(n))
+
+def math_func_106(n):
+    return math.log(n)
+
+print(math_func_106(n))
+
+def math_func_107(n):
+    return math.sin(n)
+
+print(math_func_107(n))
+
+def math_func_108(n):
+    return math.cos(n)
+
+print(math_func_108(n))
+
+def math_func_109(n):
+    return math.tan(n)
+
+print(math_func_109(n))
+
+def math_func_11(n):
+    return n + 11
+
+print(math_func_11(11))
+
+def math_func_110(n):
+    return n + 11
+
+print(math_func_110(11))
+
+def math_func_111(n):
+    return n - 12
+
+print(math_func_111(12))
+
+def math_func_112(n):
+    return n * 13
+
+print(math_func_112(13))
+
+def math_func_113(n):
+    return n / 14
+
+print(math_func_113(14))
+
+def math_func_114(n):
+    return n % 15
+
+print(math_func_114(15))
+
+def math_func_115(n):
+    return math.pow(n, 16)
+
+print(math_func_115(16))
+
+def math_func_116(n):
+    return math.sqrt(n)
+
+print(math_func_116(n))
+
+def math_func_117(n):
+    return math.log(n)
+
+print(math_func_117(n))
+
+def math_func_118(n):
+    return math.sin(n)
+
+print(math_func_118(n))
+
+def math_func_119(n):
+    return math.cos(n)
+
+print(math_func_119(n))
+
+def math_func_12(n):
+    return n - 12
+
+print(math_func_12(12))
+
+def math_func_120(n):
+    return math.tan(n)
+
+print(math_func_120(n))
+
+def math_func_121(n):
+    return n + 2
+
+print(math_func_121(2))
+
+def math_func_122(n):
+    return n - 3
+
+print(math_func_122(3))
+
+def math_func_123(n):
+    return n * 4
+
+print(math_func_123(4))
+
+def math_func_124(n):
+    return n / 5
+
+print(math_func_124(5))
+
+def math_func_125(n):
+    return n % 6
+
+print(math_func_125(6))
+
+def math_func_126(n):
+    return math.pow(n, 7)
+
+print(math_func_126(7))
+
+def math_func_127(n):
+    return math.sqrt(n)
+
+print(math_func_127(n))
+
+def math_func_128(n):
+    return math.log(n)
+
+print(math_func_128(n))
+
+def math_func_129(n):
+    return math.sin(n)
+
+print(math_func_129(n))
+
+def math_func_13(n):
+    return n * 13
+
+print(math_func_13(13))
+
+def math_func_130(n):
+    return math.cos(n)
+
+print(math_func_130(n))
+
+def math_func_131(n):
+    return math.tan(n)
+
+print(math_func_131(n))
+
+def math_func_132(n):
+    return n + 13
+
+print(math_func_132(13))
+
+def math_func_133(n):
+    return n - 14
+
+print(math_func_133(14))
+
+def math_func_134(n):
+    return n * 15
+
+print(math_func_134(15))
+
+def math_func_135(n):
+    return n / 16
+
+print(math_func_135(16))
+
+def math_func_136(n):
+    return n % 17
+
+print(math_func_136(17))
+
+def math_func_137(n):
+    return math.pow(n, 18)
+
+print(math_func_137(18))
+
+def math_func_138(n):
+    return math.sqrt(n)
+
+print(math_func_138(n))
+
+def math_func_139(n):
+    return math.log(n)
+
+print(math_func_139(n))
+
+def math_func_14(n):
+    return n / 14
+
+print(math_func_14(14))
+
+def math_func_140(n):
+    return math.sin(n)
+
+print(math_func_140(n))
+
+def math_func_141(n):
+    return math.cos(n)
+
+print(math_func_141(n))
+
+def math_func_142(n):
+    return math.tan(n)
+
+print(math_func_142(n))
+
+def math_func_143(n):
+    return n + 4
+
+print(math_func_143(4))
+
+def math_func_144(n):
+    return n - 5
+
+print(math_func_144(5))
+
+def math_func_145(n):
+    return n * 6
+
+print(math_func_145(6))
+
+def math_func_146(n):
+    return n / 7
+
+print(math_func_146(7))
+
+def math_func_147(n):
+    return n % 8
+
+print(math_func_147(8))
+
+def math_func_148(n):
+    return math.pow(n, 9)
+
+print(math_func_148(9))
+
+def math_func_149(n):
+    return math.sqrt(n)
+
+print(math_func_149(n))
+
+def math_func_15(n):
+    return n % 15
+
+print(math_func_15(15))
+
+def math_func_150(n):
+    return math.log(n)
+
+print(math_func_150(n))
+
+def math_func_151(n):
+    return math.sin(n)
+
+print(math_func_151(n))
+
+def math_func_152(n):
+    return math.cos(n)
+
+print(math_func_152(n))
+
+def math_func_153(n):
+    return math.tan(n)
+
+print(math_func_153(n))
+
+def math_func_154(n):
+    return n + 15
+
+print(math_func_154(15))
+
+def math_func_155(n):
+    return n - 16
+
+print(math_func_155(16))
+
+def math_func_156(n):
+    return n * 17
+
+print(math_func_156(17))
+
+def math_func_157(n):
+    return n / 18
+
+print(math_func_157(18))
+
+def math_func_158(n):
+    return n % 19
+
+print(math_func_158(19))
+
+def math_func_159(n):
+    return math.pow(n, 20)
+
+print(math_func_159(20))
+
+def math_func_16(n):
+    return math.pow(n, 16)
+
+print(math_func_16(16))
+
+def math_func_160(n):
+    return math.sqrt(n)
+
+print(math_func_160(n))
+
+def math_func_161(n):
+    return math.log(n)
+
+print(math_func_161(n))
+
+def math_func_162(n):
+    return math.sin(n)
+
+print(math_func_162(n))
+
+def math_func_163(n):
+    return math.cos(n)
+
+print(math_func_163(n))
+
+def math_func_164(n):
+    return math.tan(n)
+
+print(math_func_164(n))
+
+def math_func_165(n):
+    return n + 6
+
+print(math_func_165(6))
+
+def math_func_166(n):
+    return n - 7
+
+print(math_func_166(7))
+
+def math_func_167(n):
+    return n * 8
+
+print(math_func_167(8))
+
+def math_func_168(n):
+    return n / 9
+
+print(math_func_168(9))
+
+def math_func_169(n):
+    return n % 10
+
+print(math_func_169(10))
+
+def math_func_17(n):
+    return math.sqrt(n)
+
+print(math_func_17(n))
+
+def math_func_170(n):
+    return math.pow(n, 11)
+
+print(math_func_170(11))
+
+def math_func_171(n):
+    return math.sqrt(n)
+
+print(math_func_171(n))
+
+def math_func_172(n):
+    return math.log(n)
+
+print(math_func_172(n))
+
+def math_func_173(n):
+    return math.sin(n)
+
+print(math_func_173(n))
+
+def math_func_174(n):
+    return math.cos(n)
+
+print(math_func_174(n))
+
+def math_func_175(n):
+    return math.tan(n)
+
+print(math_func_175(n))
+
+def math_func_176(n):
+    return n + 17
+
+print(math_func_176(17))
+
+def math_func_177(n):
+    return n - 18
+
+print(math_func_177(18))
+
+def math_func_178(n):
+    return n * 19
+
+print(math_func_178(19))
+
+def math_func_179(n):
+    return n / 20
+
+print(math_func_179(20))
+
+def math_func_18(n):
+    return math.log(n)
+
+print(math_func_18(n))
+
+def math_func_180(n):
+    return n % 1
+
+print(math_func_180(1))
+
+def math_func_181(n):
+    return math.pow(n, 2)
+
+print(math_func_181(2))
+
+def math_func_182(n):
+    return math.sqrt(n)
+
+print(math_func_182(n))
+
+def math_func_183(n):
+    return math.log(n)
+
+print(math_func_183(n))
+
+def math_func_184(n):
+    return math.sin(n)
+
+print(math_func_184(n))
+
+def math_func_185(n):
+    return math.cos(n)
+
+print(math_func_185(n))
+
+def math_func_186(n):
+    return math.tan(n)
+
+print(math_func_186(n))
+
+def math_func_187(n):
+    return n + 8
+
+print(math_func_187(8))
+
+def math_func_188(n):
+    return n - 9
+
+print(math_func_188(9))
+
+def math_func_189(n):
+    return n * 10
+
+print(math_func_189(10))
+
+def math_func_19(n):
+    return math.sin(n)
+
+print(math_func_19(n))
+
+def math_func_190(n):
+    return n / 11
+
+print(math_func_190(11))
+
+def math_func_191(n):
+    return n % 12
+
+print(math_func_191(12))
+
+def math_func_192(n):
+    return math.pow(n, 13)
+
+print(math_func_192(13))
+
+def math_func_193(n):
+    return math.sqrt(n)
+
+print(math_func_193(n))
+
+def math_func_194(n):
+    return math.log(n)
+
+print(math_func_194(n))
+
+def math_func_195(n):
+    return math.sin(n)
+
+print(math_func_195(n))
+
+def math_func_196(n):
+    return math.cos(n)
+
+print(math_func_196(n))
+
+def math_func_197(n):
+    return math.tan(n)
+
+print(math_func_197(n))
+
+def math_func_198(n):
+    return n + 19
+
+print(math_func_198(19))
+
+def math_func_199(n):
+    return n - 20
+
+print(math_func_199(20))
+
+def math_func_2(n):
+    return n * 2
+
+print(math_func_2(2))
+
+def math_func_20(n):
+    return math.cos(n)
+
+print(math_func_20(n))
+
+def math_func_200(n):
+    return n * 1
+
+print(math_func_200(1))
+
+def math_func_201(n):
+    return n / 2
+
+print(math_func_201(2))
+
+def math_func_202(n):
+    return n % 3
+
+print(math_func_202(3))
+
+def math_func_203(n):
+    return math.pow(n, 4)
+
+print(math_func_203(4))
+
+def math_func_204(n):
+    return math.sqrt(n)
+
+print(math_func_204(n))
+
+def math_func_205(n):
+    return math.log(n)
+
+print(math_func_205(n))
+
+def math_func_206(n):
+    return math.sin(n)
+
+print(math_func_206(n))
+
+def math_func_207(n):
+    return math.cos(n)
+
+print(math_func_207(n))
+
+def math_func_208(n):
+    return math.tan(n)
+
+print(math_func_208(n))
+
+def math_func_209(n):
+    return n + 10
+
+print(math_func_209(10))
+
+def math_func_21(n):
+    return math.tan(n)
+
+print(math_func_21(n))
+
+def math_func_210(n):
+    return n - 11
+
+print(math_func_210(11))
+
+def math_func_211(n):
+    return n * 12
+
+print(math_func_211(12))
+
+def math_func_212(n):
+    return n / 13
+
+print(math_func_212(13))
+
+def math_func_213(n):
+    return n % 14
+
+print(math_func_213(14))
+
+def math_func_214(n):
+    return math.pow(n, 15)
+
+print(math_func_214(15))
+
+def math_func_215(n):
+    return math.sqrt(n)
+
+print(math_func_215(n))
+
+def math_func_216(n):
+    return math.log(n)
+
+print(math_func_216(n))
+
+def math_func_217(n):
+    return math.sin(n)
+
+print(math_func_217(n))
+
+def math_func_218(n):
+    return math.cos(n)
+
+print(math_func_218(n))
+
+def math_func_219(n):
+    return math.tan(n)
+
+print(math_func_219(n))
+
+def math_func_22(n):
+    return n + 3
+
+print(math_func_22(3))
+
+def math_func_220(n):
+    return n + 1
+
+print(math_func_220(1))
+
+def math_func_221(n):
+    return n - 2
+
+print(math_func_221(2))
+
+def math_func_222(n):
+    return n * 3
+
+print(math_func_222(3))
+
+def math_func_223(n):
+    return n / 4
+
+print(math_func_223(4))
+
+def math_func_224(n):
+    return n % 5
+
+print(math_func_224(5))
+
+def math_func_225(n):
+    return math.pow(n, 6)
+
+print(math_func_225(6))
+
+def math_func_226(n):
+    return math.sqrt(n)
+
+print(math_func_226(n))
+
+def math_func_227(n):
+    return math.log(n)
+
+print(math_func_227(n))
+
+def math_func_228(n):
+    return math.sin(n)
+
+print(math_func_228(n))
+
+def math_func_229(n):
+    return math.cos(n)
+
+print(math_func_229(n))
+
+def math_func_23(n):
+    return n - 4
+
+print(math_func_23(4))
+
+def math_func_230(n):
+    return math.tan(n)
+
+print(math_func_230(n))
+
+def math_func_231(n):
+    return n + 12
+
+print(math_func_231(12))
+
+def math_func_232(n):
+    return n - 13
+
+print(math_func_232(13))
+
+def math_func_233(n):
+    return n * 14
+
+print(math_func_233(14))
+
+def math_func_234(n):
+    return n / 15
+
+print(math_func_234(15))
+
+def math_func_235(n):
+    return n % 16
+
+print(math_func_235(16))
+
+def math_func_236(n):
+    return math.pow(n, 17)
+
+print(math_func_236(17))
+
+def math_func_237(n):
+    return math.sqrt(n)
+
+print(math_func_237(n))
+
+def math_func_238(n):
+    return math.log(n)
+
+print(math_func_238(n))
+
+def math_func_239(n):
+    return math.sin(n)
+
+print(math_func_239(n))
+
+def math_func_24(n):
+    return n * 5
+
+print(math_func_24(5))
+
+def math_func_240(n):
+    return math.cos(n)
+
+print(math_func_240(n))
+
+def math_func_241(n):
+    return math.tan(n)
+
+print(math_func_241(n))
+
+def math_func_242(n):
+    return n + 3
+
+print(math_func_242(3))
+
+def math_func_243(n):
+    return n - 4
+
+print(math_func_243(4))
+
+def math_func_244(n):
+    return n * 5
+
+print(math_func_244(5))
+
+def math_func_245(n):
+    return n / 6
+
+print(math_func_245(6))
+
+def math_func_246(n):
+    return n % 7
+
+print(math_func_246(7))
+
+def math_func_247(n):
+    return math.pow(n, 8)
+
+print(math_func_247(8))
+
+def math_func_248(n):
+    return math.sqrt(n)
+
+print(math_func_248(n))
+
+def math_func_249(n):
+    return math.log(n)
+
+print(math_func_249(n))
+
+def math_func_25(n):
+    return n / 6
+
+print(math_func_25(6))
+
+def math_func_250(n):
+    return math.sin(n)
+
+print(math_func_250(n))
+
+def math_func_251(n):
+    return math.cos(n)
+
+print(math_func_251(n))
+
+def math_func_252(n):
+    return math.tan(n)
+
+print(math_func_252(n))
+
+def math_func_253(n):
+    return n + 14
+
+print(math_func_253(14))
+
+def math_func_254(n):
+    return n - 15
+
+print(math_func_254(15))
+
+def math_func_255(n):
+    return n * 16
+
+print(math_func_255(16))
+
+def math_func_256(n):
+    return n / 17
+
+print(math_func_256(17))
+
+def math_func_257(n):
+    return n % 18
+
+print(math_func_257(18))
+
+def math_func_258(n):
+    return math.pow(n, 19)
+
+print(math_func_258(19))
+
+def math_func_259(n):
+    return math.sqrt(n)
+
+print(math_func_259(n))
+
+def math_func_26(n):
+    return n % 7
+
+print(math_func_26(7))
+
+def math_func_260(n):
+    return math.log(n)
+
+print(math_func_260(n))
+
+def math_func_261(n):
+    return math.sin(n)
+
+print(math_func_261(n))
+
+def math_func_262(n):
+    return math.cos(n)
+
+print(math_func_262(n))
+
+def math_func_263(n):
+    return math.tan(n)
+
+print(math_func_263(n))
+
+def math_func_264(n):
+    return n + 5
+
+print(math_func_264(5))
+
+def math_func_265(n):
+    return n - 6
+
+print(math_func_265(6))
+
+def math_func_266(n):
+    return n * 7
+
+print(math_func_266(7))
+
+def math_func_267(n):
+    return n / 8
+
+print(math_func_267(8))
+
+def math_func_268(n):
+    return n % 9
+
+print(math_func_268(9))
+
+def math_func_269(n):
+    return math.pow(n, 10)
+
+print(math_func_269(10))
+
+def math_func_27(n):
+    return math.pow(n, 8)
+
+print(math_func_27(8))
+
+def math_func_270(n):
+    return math.sqrt(n)
+
+print(math_func_270(n))
+
+def math_func_271(n):
+    return math.log(n)
+
+print(math_func_271(n))
+
+def math_func_272(n):
+    return math.sin(n)
+
+print(math_func_272(n))
+
+def math_func_273(n):
+    return math.cos(n)
+
+print(math_func_273(n))
+
+def math_func_274(n):
+    return math.tan(n)
+
+print(math_func_274(n))
+
+def math_func_275(n):
+    return n + 16
+
+print(math_func_275(16))
+
+def math_func_276(n):
+    return n - 17
+
+print(math_func_276(17))
+
+def math_func_277(n):
+    return n * 18
+
+print(math_func_277(18))
+
+def math_func_278(n):
+    return n / 19
+
+print(math_func_278(19))
+
+def math_func_279(n):
+    return n % 20
+
+print(math_func_279(20))
+
+def math_func_28(n):
+    return math.sqrt(n)
+
+print(math_func_28(n))
+
+def math_func_280(n):
+    return math.pow(n, 1)
+
+print(math_func_280(1))
+
+def math_func_281(n):
+    return math.sqrt(n)
+
+print(math_func_281(n))
+
+def math_func_282(n):
+    return math.log(n)
+
+print(math_func_282(n))
+
+def math_func_283(n):
+    return math.sin(n)
+
+print(math_func_283(n))
+
+def math_func_284(n):
+    return math.cos(n)
+
+print(math_func_284(n))
+
+def math_func_285(n):
+    return math.tan(n)
+
+print(math_func_285(n))
+
+def math_func_286(n):
+    return n + 7
+
+print(math_func_286(7))
+
+def math_func_287(n):
+    return n - 8
+
+print(math_func_287(8))
+
+def math_func_288(n):
+    return n * 9
+
+print(math_func_288(9))
+
+def math_func_289(n):
+    return n / 10
+
+print(math_func_289(10))
+
+def math_func_29(n):
+    return math.log(n)
+
+print(math_func_29(n))
+
+def math_func_290(n):
+    return n % 11
+
+print(math_func_290(11))
+
+def math_func_291(n):
+    return math.pow(n, 12)
+
+print(math_func_291(12))
+
+def math_func_292(n):
+    return math.sqrt(n)
+
+print(math_func_292(n))
+
+def math_func_293(n):
+    return math.log(n)
+
+print(math_func_293(n))
+
+def math_func_294(n):
+    return math.sin(n)
+
+print(math_func_294(n))
+
+def math_func_295(n):
+    return math.cos(n)
+
+print(math_func_295(n))
+
+def math_func_296(n):
+    return math.tan(n)
+
+print(math_func_296(n))
+
+def math_func_297(n):
+    return n + 18
+
+print(math_func_297(18))
+
+def math_func_298(n):
+    return n - 19
+
+print(math_func_298(19))
+
+def math_func_299(n):
+    return n * 20
+
+print(math_func_299(20))
+
+def math_func_3(n):
+    return n / 3
+
+print(math_func_3(3))
+
+def math_func_30(n):
+    return math.sin(n)
+
+print(math_func_30(n))
+
+def math_func_300(n):
+    return n / 1
+
+print(math_func_300(1))
+
+def math_func_31(n):
+    return math.cos(n)
+
+print(math_func_31(n))
+
+def math_func_32(n):
+    return math.tan(n)
+
+print(math_func_32(n))
+
+def math_func_33(n):
+    return n + 14
+
+print(math_func_33(14))
+
+def math_func_34(n):
+    return n - 15
+
+print(math_func_34(15))
+
+def math_func_35(n):
+    return n * 16
+
+print(math_func_35(16))
+
+def math_func_36(n):
+    return n / 17
+
+print(math_func_36(17))
+
+def math_func_37(n):
+    return n % 18
+
+print(math_func_37(18))
+
+def math_func_38(n):
+    return math.pow(n, 19)
+
+print(math_func_38(19))
+
+def math_func_39(n):
+    return math.sqrt(n)
+
+print(math_func_39(n))
+
+def math_func_4(n):
+    return n % 4
+
+print(math_func_4(4))
+
+def math_func_40(n):
+    return math.log(n)
+
+print(math_func_40(n))
+
+def math_func_41(n):
+    return math.sin(n)
+
+print(math_func_41(n))
+
+def math_func_42(n):
+    return math.cos(n)
+
+print(math_func_42(n))
+
+def math_func_43(n):
+    return math.tan(n)
+
+print(math_func_43(n))
+
+def math_func_44(n):
+    return n + 5
+
+print(math_func_44(5))
+
+def math_func_45(n):
+    return n - 6
+
+print(math_func_45(6))
+
+def math_func_46(n):
+    return n * 7
+
+print(math_func_46(7))
+
+def math_func_47(n):
+    return n / 8
+
+print(math_func_47(8))
+
+def math_func_48(n):
+    return n % 9
+
+print(math_func_48(9))
+
+def math_func_49(n):
+    return math.pow(n, 10)
+
+print(math_func_49(10))
+
+def math_func_5(n):
+    return math.pow(n, 5)
+
+print(math_func_5(5))
+
+def math_func_50(n):
+    return math.sqrt(n)
+
+print(math_func_50(n))
+
+def math_func_51(n):
+    return math.log(n)
+
+print(math_func_51(n))
+
+def math_func_52(n):
+    return math.sin(n)
+
+print(math_func_52(n))
+
+def math_func_53(n):
+    return math.cos(n)
+
+print(math_func_53(n))
+
+def math_func_54(n):
+    return math.tan(n)
+
+print(math_func_54(n))
+
+def math_func_55(n):
+    return n + 16
+
+print(math_func_55(16))
+
+def math_func_56(n):
+    return n - 17
+
+print(math_func_56(17))
+
+def math_func_57(n):
+    return n * 18
+
+print(math_func_57(18))
+
+def math_func_58(n):
+    return n / 19
+
+print(math_func_58(19))
+
+def math_func_59(n):
+    return n % 20
+
+print(math_func_59(20))
+
+def math_func_6(n):
+    return math.sqrt(n)
+
+print(math_func_6(n))
+
+def math_func_60(n):
+    return math.pow(n, 1)
+
+print(math_func_60(1))
+
+def math_func_61(n):
+    return math.sqrt(n)
+
+print(math_func_61(n))
+
+def math_func_62(n):
+    return math.log(n)
+
+print(math_func_62(n))
+
+def math_func_63(n):
+    return math.sin(n)
+
+print(math_func_63(n))
+
+def math_func_64(n):
+    return math.cos(n)
+
+print(math_func_64(n))
+
+def math_func_65(n):
+    return math.tan(n)
+
+print(math_func_65(n))
+
+def math_func_66(n):
+    return n + 7
+
+print(math_func_66(7))
+
+def math_func_67(n):
+    return n - 8
+
+print(math_func_67(8))
+
+def math_func_68(n):
+    return n * 9
+
+print(math_func_68(9))
+
+def math_func_69(n):
+    return n / 10
+
+print(math_func_69(10))
+
+def math_func_7(n):
+    return math.log(n)
+
+print(math_func_7(n))
+
+def math_func_70(n):
+    return n % 11
+
+print(math_func_70(11))
+
+def math_func_71(n):
+    return math.pow(n, 12)
+
+print(math_func_71(12))
+
+def math_func_72(n):
+    return math.sqrt(n)
+
+print(math_func_72(n))
+
+def math_func_73(n):
+    return math.log(n)
+
+print(math_func_73(n))
+
+def math_func_74(n):
+    return math.sin(n)
+
+print(math_func_74(n))
+
+def math_func_75(n):
+    return math.cos(n)
+
+print(math_func_75(n))
+
+def math_func_76(n):
+    return math.tan(n)
+
+print(math_func_76(n))
+
+def math_func_77(n):
+    return n + 18
+
+print(math_func_77(18))
+
+def math_func_78(n):
+    return n - 19
+
+print(math_func_78(19))
+
+def math_func_79(n):
+    return n * 20
+
+print(math_func_79(20))
+
+def math_func_8(n):
+    return math.sin(n)
+
+print(math_func_8(n))
+
+def math_func_80(n):
+    return n / 1
+
+print(math_func_80(1))
+
+def math_func_81(n):
+    return n % 2
+
+print(math_func_81(2))
+
+def math_func_82(n):
+    return math.pow(n, 3)
+
+print(math_func_82(3))
+
+def math_func_83(n):
+    return math.sqrt(n)
+
+print(math_func_83(n))
+
+def math_func_84(n):
+    return math.log(n)
+
+print(math_func_84(n))
+
+def math_func_85(n):
+    return math.sin(n)
+
+print(math_func_85(n))
+
+def math_func_86(n):
+    return math.cos(n)
+
+print(math_func_86(n))
+
+def math_func_87(n):
+    return math.tan(n)
+
+print(math_func_87(n))
+
+def math_func_88(n):
+    return n + 9
+
+print(math_func_88(9))
+
+def math_func_89(n):
+    return n - 10
+
+print(math_func_89(10))
+
+def math_func_9(n):
+    return math.cos(n)
+
+print(math_func_9(n))
+
+def math_func_90(n):
+    return n * 11
+
+print(math_func_90(11))
+
+def math_func_91(n):
+    return n / 12
+
+print(math_func_91(12))
+
+def math_func_92(n):
+    return n % 13
+
+print(math_func_92(13))
+
+def math_func_93(n):
+    return math.pow(n, 14)
+
+print(math_func_93(14))
+
+def math_func_94(n):
+    return math.sqrt(n)
+
+print(math_func_94(n))
+
+def math_func_95(n):
+    return math.log(n)
+
+print(math_func_95(n))
+
+def math_func_96(n):
+    return math.sin(n)
+
+print(math_func_96(n))
+
+def math_func_97(n):
+    return math.cos(n)
+
+print(math_func_97(n))
+
+def math_func_98(n):
+    return math.tan(n)
+
+print(math_func_98(n))
+
+def math_func_99(n):
+    return n + 20
+
+print(math_func_99(20))
+
