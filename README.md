@@ -1,5 +1,11 @@
 # qr-vid
-A method to extract code from qr codes in a video, print it to the terminal and output it as a text file.
+A method to extract code from qr codes in a video, output it to a live python editor, the terminal and a text file. 
+
+# Version 0.0.02 Note: 
+
+Includes a toolset for creating structured code in text and JSON format for the initial code base and extracting validator code from a video's subtitles. 
+
+There is now a live python code editor for inspecting, editing and executing the extracted code.
 
 ### Stable files are in qr-vid-rapid-steps.
 There is a simplified GUI version of qr-vid here: https://github.com/txtatech/qr-vid-gui
