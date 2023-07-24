@@ -1,0 +1,15 @@
+# Step:1
+
+Import qr code png files from qrs directory into openshot.
+
+Add to timeline and set interval to 5 seconds.
+
+Export as mkv or mp4
+
+# Step:2
+
+Import video file from step one into handbrake.
+
+Add subtitles file.
+
+Export to mkv or mp4.
