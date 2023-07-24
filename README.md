@@ -2,6 +2,7 @@
 A method to extract code from qr codes in a video, print it to the terminal and output it as a text file.
 
 ### Stable files are in qr-vid-rapid-steps.
+There is a simplified GUI version of qr-vid here: https://github.com/txtatech/qr-vid-gui
 
 ## QR-Vid
 
